@@ -1,0 +1,1 @@
+export const GROUP_MEMBERS_MAX_NUMBER = 5;
